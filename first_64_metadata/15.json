@@ -1,0 +1,15 @@
+{
+    "name": "Heart Army #15",
+    "description": "The Energy Polyhedron is failing and a new hyperenergy structure has been implemented for assembling to the fallen star, the gift from the heavens. The Highcrown Council has selected and trained an army of children. Together, they will carry the hyperenergy heart to the crater and found a new city. Once more, the survivor kids will carry the hope of life for the neo-genesis. May the gods have mercy of our souls. May the Ethertree council survive in the hearts of this kids. We don't ask mercy from the winter, as is it's will is to render all life null. We ask for strength.",
+    "image":"https://raw.githubusercontent.com/ultraKelevra/HeartArmyData/main/fisrt_64/15.jpg",
+    "attributes": [
+        {"trait_type":"Race","value":"Human"},
+        {"trait_type":"Face","value":"Tired"},
+        {"trait_type":"Job","value":"Paladin"},
+        {"trait_type":"Hairstyle","value":"Cool Boy"},
+        {"trait_type":"Body Palette","value":"Beige Cream"},
+        {"trait_type":"Pact","value":"Rock Gangs"},
+        {"trait_type":"Hair Color","value":"Dark Brown"},
+        {"trait_type":"Background","value":"Lapis Blue"}
+    ]
+}
